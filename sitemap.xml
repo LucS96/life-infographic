@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sauve_infographic.ca/index.html</loc>
+    <lastmod>2018-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-42.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-49.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-47.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-48.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-46.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-53.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-45.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-51.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-44.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-50.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-43.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
