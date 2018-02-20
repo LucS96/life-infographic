@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519087790292">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519163887170">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3814163042" ref="index"/>
+    <file name="site_global.css" crc="4199596460"/>
+    <file name="index.css" crc="3959374556" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,41 +14,43 @@
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="asset-42.svg" crc="3907246792" seo="true" ref="index">
+    <file name="title.svg" crc="80654830" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 42_poster_.png" crc="173106639" ref="index"/>
-    <file name="asset-49.svg" crc="3848682782" seo="true" ref="index">
+    <file name="title_poster_.png" crc="303005526" ref="index"/>
+    <file name="u1384-4.png" crc="4020511456" ref="index"/>
+    <file name="baby.svg" crc="3957546183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="asset 49_poster_.png" crc="3889687246" ref="index"/>
-    <file name="asset-47.svg" crc="3817374677" seo="true" ref="index">
+    <file name="baby_poster_.png" crc="54190226" ref="index"/>
+    <file name="asset-55.svg" crc="3980740293" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 47_poster_.png" crc="3833187904" ref="index"/>
-    <file name="arrow-up.svg" crc="3777784796" ref="index"/>
-    <file name="arrow-up_poster_u315.png" crc="4083757130" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="asset 55_poster_.png" crc="87851528" ref="index"/>
     <file name="asset-48.svg" crc="451682261" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="asset 48_poster_.png" crc="449517643" ref="index"/>
     <file name="asset-46.svg" crc="3829944669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 46_poster_.png" crc="469883404" ref="index"/>
-    <file name="asset-53.svg" crc="3824047962" seo="true" ref="index">
+    <file name="arrow-up.svg" crc="3777784796" ref="index"/>
+    <file name="arrow-up_poster_u315.png" crc="4083757130" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="teen.svg" crc="207711760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 53_poster_.png" crc="52938076" ref="index"/>
-    <file name="asset-45.svg" crc="3784220306" seo="true" ref="index">
+    <file name="teen_poster_.png" crc="4273899250" ref="index"/>
+    <file name="asset-58.svg" crc="3778363324" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 45_poster_.png" crc="4026170924" ref="index"/>
+    <file name="asset 58_poster_.png" crc="3981507924" ref="index"/>
     <file name="asset-51.svg" crc="243878870" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -57,6 +59,46 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 44_poster_.png" crc="526818525" ref="index"/>
+    <file name="future.svg" crc="3855730590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="future_poster_.png" crc="222959080" ref="index"/>
+    <file name="asset-56.svg" crc="279204408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 56_poster_.png" crc="140659271" ref="index"/>
+    <file name="asset-49.svg" crc="3848682782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 49_poster_.png" crc="3889687246" ref="index"/>
+    <file name="asset-47.svg" crc="3817374677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 47_poster_.png" crc="3833187904" ref="index"/>
+    <file name="child.svg" crc="99841264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="child_poster_.png" crc="4025630772" ref="index"/>
+    <file name="asset-54.svg" crc="154571836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 54_poster_.png" crc="3899896472" ref="index"/>
+    <file name="asset-53.svg" crc="3824047962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 53_poster_.png" crc="52938076" ref="index"/>
+    <file name="asset-45.svg" crc="3784220306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 45_poster_.png" crc="4026170924" ref="index"/>
+    <file name="me-now.svg" crc="327471071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="me-now_poster_.png" crc="3852088502" ref="index"/>
+    <file name="asset-57.svg" crc="87270288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 57_poster_.png" crc="4067715055" ref="index"/>
     <file name="asset-50.svg" crc="83201728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -65,6 +107,36 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 43_poster_.png" crc="4283400215" ref="index"/>
+    <file name="u1322_states.png" crc="418404850" ref="index"/>
+    <file name="u1322_states-r.png" crc="343642162" ref="index"/>
+    <file name="u1322_states-a.png" crc="343642162" ref="index"/>
+    <file name="u1324_states.png" crc="325046215" ref="index"/>
+    <file name="u1324_states-r.png" crc="8994281" ref="index"/>
+    <file name="u1324_states-a.png" crc="8994281" ref="index"/>
+    <file name="u1323_states.png" crc="4033961105" ref="index"/>
+    <file name="u1323_states-r.png" crc="138803730" ref="index"/>
+    <file name="u1323_states-a.png" crc="138803730" ref="index"/>
+    <file name="u1320_states.png" crc="4256578884" ref="index"/>
+    <file name="u1320_states-r.png" crc="433800878" ref="index"/>
+    <file name="u1320_states-a.png" crc="433800878" ref="index"/>
+    <file name="u1325_states.png" crc="468672159" ref="index"/>
+    <file name="u1325_states-r.png" crc="3984638677" ref="index"/>
+    <file name="u1325_states-a.png" crc="3984638677" ref="index"/>
+    <file name="u1271_states.png" crc="3980190676" ref="index"/>
+    <file name="u1271_states-r.png" crc="47680353" ref="index"/>
+    <file name="u1271_states-a.png" crc="47680353" ref="index"/>
+    <file name="u1278_states.png" crc="4251637661" ref="index"/>
+    <file name="u1278_states-r.png" crc="134863773" ref="index"/>
+    <file name="u1278_states-a.png" crc="134863773" ref="index"/>
+    <file name="u1281_states.png" crc="3855052926" ref="index"/>
+    <file name="u1281_states-r.png" crc="4061060339" ref="index"/>
+    <file name="u1281_states-a.png" crc="4061060339" ref="index"/>
+    <file name="u1287_states.png" crc="393574171" ref="index"/>
+    <file name="u1287_states-r.png" crc="380715194" ref="index"/>
+    <file name="u1287_states-a.png" crc="380715194" ref="index"/>
+    <file name="u1290_states.png" crc="4044891591" ref="index"/>
+    <file name="u1290_states-r.png" crc="4039760949" ref="index"/>
+    <file name="u1290_states-a.png" crc="4039760949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4143414341" seo="true" mt="1519086278432" redirect="true"/>
+  <file name="index.html" crc="3856428395" seo="true" mt="1519163722530" redirect="true"/>
 </manifest>
