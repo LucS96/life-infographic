@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519334470348">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519338918521">
   <folder name="css">
     <file name="site_global.css" crc="4199596460"/>
-    <file name="index.css" crc="4258080787" ref="index"/>
+    <file name="index.css" crc="199751976" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -47,10 +47,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 58_poster_.png" crc="3981507924" ref="index"/>
-    <file name="asset-6.svg" crc="35011886" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 6_poster_.png" crc="4226139000" ref="index"/>
     <file name="future.svg" crc="3855730590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -142,5 +138,5 @@
     </file>
     <file name="asset 9_poster_.png" crc="4023322493" ref="index"/>
   </folder>
-  <file name="index.html" crc="4121127207" seo="true" mt="1519334440315" redirect="true"/>
+  <file name="index.html" crc="96230494" seo="true" mt="1519338879500" redirect="true"/>
 </manifest>
