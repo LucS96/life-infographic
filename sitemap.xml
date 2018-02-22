@@ -15,9 +15,6 @@
       <image:loc>http://sauve_infographic.ca/images/asset-55.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-2.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sauve_infographic.ca/images/asset-46.svg</image:loc>
     </image:image>
     <image:image>
@@ -30,16 +27,10 @@
       <image:loc>http://sauve_infographic.ca/images/asset-6.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-51.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sauve_infographic.ca/images/future.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sauve_infographic.ca/images/asset-56.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-5.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sauve_infographic.ca/images/asset-47.svg</image:loc>
@@ -51,9 +42,6 @@
       <image:loc>http://sauve_infographic.ca/images/asset-54.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-4.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sauve_infographic.ca/images/asset-45.svg</image:loc>
     </image:image>
     <image:image>
@@ -63,10 +51,25 @@
       <image:loc>http://sauve_infographic.ca/images/asset-57.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-3.svg</image:loc>
+      <image:loc>http://sauve_infographic.ca/images/asset-43.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sauve_infographic.ca/images/asset-43.svg</image:loc>
+      <image:loc>http://sauve_infographic.ca/images/asset-8.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-7.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-44.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-11.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-10.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sauve_infographic.ca/images/asset-9.svg</image:loc>
     </image:image>
   </url>
 </urlset>
