@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519164268943">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sauve_infographic.ca" resolutions="1x" timestamp="1519332844233">
   <folder name="css">
     <file name="site_global.css" crc="4199596460"/>
-    <file name="index.css" crc="177636113" ref="index"/>
+    <file name="index.css" crc="4236222678" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,11 +31,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 55_poster_.png" crc="87851528" ref="index"/>
-    <file name="asset-48.svg" crc="451682261" seo="true" ref="index">
+    <file name="asset-2.svg" crc="3961713444" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="asset 48_poster_.png" crc="449517643" ref="index"/>
+    <file name="asset 2_poster_.png" crc="338144503" ref="index"/>
     <file name="asset-46.svg" crc="3829944669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -51,14 +51,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 58_poster_.png" crc="3981507924" ref="index"/>
+    <file name="asset-6.svg" crc="35011886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6_poster_.png" crc="4226139000" ref="index"/>
     <file name="asset-51.svg" crc="243878870" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 51_poster_.png" crc="3790468673" ref="index"/>
-    <file name="asset-44.svg" crc="4074296332" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 44_poster_.png" crc="526818525" ref="index"/>
     <file name="future.svg" crc="3855730590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -67,14 +67,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 56_poster_.png" crc="140659271" ref="index"/>
-    <file name="asset-49.svg" crc="3848682782" seo="true" ref="index">
+    <file name="asset-5.svg" crc="397574624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 49_poster_.png" crc="3889687246" ref="index"/>
+    <file name="asset 5_poster_.png" crc="4130243739" ref="index"/>
     <file name="asset-47.svg" crc="3817374677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 47_poster_.png" crc="3833187904" ref="index"/>
+    <file name="asset 47_poster_.png" crc="385926203" ref="index"/>
     <file name="child.svg" crc="99841264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -83,10 +83,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 54_poster_.png" crc="3899896472" ref="index"/>
-    <file name="asset-53.svg" crc="3824047962" seo="true" ref="index">
+    <file name="asset-4.svg" crc="3925307182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 53_poster_.png" crc="52938076" ref="index"/>
+    <file name="asset 4_poster_.png" crc="3931838708" ref="index"/>
     <file name="asset-45.svg" crc="3784220306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -99,10 +99,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 57_poster_.png" crc="4067715055" ref="index"/>
-    <file name="asset-50.svg" crc="83201728" seo="true" ref="index">
+    <file name="asset-3.svg" crc="450031508" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 50_poster_.png" crc="4118734266" ref="index"/>
+    <file name="asset 3_poster_.png" crc="413775824" ref="index"/>
     <file name="asset-43.svg" crc="342351959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -138,5 +138,5 @@
     <file name="u1290_states-r.png" crc="4039760949" ref="index"/>
     <file name="u1290_states-a.png" crc="4039760949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3851315073" seo="true" mt="1519164255394" redirect="true"/>
+  <file name="index.html" crc="446084086" seo="true" mt="1519332793826" redirect="true"/>
 </manifest>
